@@ -1,16 +1,7 @@
 ## Hi there 👋
 
-<!--
-**sachinchaudhary1808/sachinchaudhary1808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-🔭 I’m currently working on learning Golang.
+- 💬 Ask me about linux stuff i can help u to get started.
+- 📫 How to reach me: chaudharysachinasachin@gmail.com
 
- 🔭 I’m currently working on learning Golang.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
- 💬 Ask me about linux stuff i can help u to get started.
- 📫 How to reach me: chaudharysachinasachin@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
